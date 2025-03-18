@@ -183,7 +183,7 @@ C) 5
 
 D) 6
 
-**Answer: B**
+**Answer: A**
 
 **Explanation:**
 - `set1` starts with {1, 2, 3}
