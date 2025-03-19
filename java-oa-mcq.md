@@ -604,7 +604,7 @@ What is the output?
 
 A) 5 0
 
-B) 8 3
+B) 6 3
 
 C) 8 5
 
@@ -618,7 +618,6 @@ D) 10 5
 - For z=2: x=3, y=1, first part true, second part false, no increment
 - For z=3: x=4, y=2, first part true, second part false, no increment
 - For z=4: x=5, y=3, both parts true, x incremented to 6
-- After loop: x=6+2=8 (from the last two iterations), y=3
 
 ### Question 15
 ```java
